@@ -1,0 +1,32 @@
+﻿빌드 시작: 2018-04-17 오전 10:06:38
+     1>2 노드의 "C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\GDIPlus_BitmapAndHBITMAP\GDIPlus_BitmapAndHBITMAP.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\GDIPlus_BitmapAndHBITMAP.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GDIPlus_BitmapAndHBITMAP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GDIPlus_BitmapAndHBITMAPDlg.cpp
+         GDIPlus_BitmapAndHBITMAPDlg.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\Debug\GDIPlus_BitmapAndHBITMAP.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GDIPlus_BitmapAndHBITMAP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\Debug\GDIPlus_BitmapAndHBITMAP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\Debug\GDIPlus_BitmapAndHBITMAP.lib" /MACHINE:X86 Debug\GDIPlus_BitmapAndHBITMAP.res
+         Debug\GDIPlus_BitmapAndHBITMAP.exe.embed.manifest.res
+         Debug\GDIPlus_BitmapAndHBITMAP.obj
+         Debug\GDIPlus_BitmapAndHBITMAPDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GDIPlus_BitmapAndHBITMAP.exe.embed.manifest" /manifest Debug\GDIPlus_BitmapAndHBITMAP.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         GDIPlus_BitmapAndHBITMAP.vcxproj -> C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\Debug\GDIPlus_BitmapAndHBITMAP.exe
+       FinalizeBuildStatus:
+         "Debug\GDIPlus_BitmapAndHBITMAP.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\GDIPlus_BitmapAndHBITMAP.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\GDIPlus_BitmapAndHBITMAP\GDIPlus_BitmapAndHBITMAP\GDIPlus_BitmapAndHBITMAP.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.50

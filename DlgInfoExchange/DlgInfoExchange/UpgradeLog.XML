@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DlgInfoExchange">
+</Property><Property Name="솔루션 파일" Value="C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2008)\DlgInfoExchange\DlgInfoExchange\DlgInfoExchange.sln">
+</Property><Property Name="Date" Value="2018년 3월 15일 목요일">
+</Property><Property Name="Time" Value="오후 15:13:46">
+</Property></Properties><Event ErrorLevel="0" Project="DlgInfoExchange" Source="DlgInfoExchange.vcproj" Description="Converting project file 'C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2008)\DlgInfoExchange\DlgInfoExchange\DlgInfoExchange.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DlgInfoExchange" Source="DlgInfoExchange.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="DlgInfoExchange" Source="DlgInfoExchange.vcproj" Description="Done converting to new project file 'C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2008)\DlgInfoExchange\DlgInfoExchange\DlgInfoExchange.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DlgInfoExchange" Source="DlgInfoExchange.vcproj" Description="Converted">
+</Event></UpgradeLog>

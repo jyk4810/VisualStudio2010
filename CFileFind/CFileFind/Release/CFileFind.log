@@ -1,0 +1,32 @@
+﻿빌드 시작: 2018-03-22 오후 4:01:52
+     1>2 노드의 "C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\CFileFind\CFileFind.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>PrepareForBuild:
+         "C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\CFileFind.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\CFileFind.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\CFileFind.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CFileFind.cpp CFileFindDlg.cpp
+         CFileFind.cpp
+         CFileFindDlg.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0412" /IRelease\ /nologo /fo"Release\CFileFind.res" CFileFind.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\CFileFind.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\CFileFind.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\CFileFind.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\CFileFind.lib" /MACHINE:X86 Release\CFileFind.res
+         Release\CFileFind.obj
+         Release\CFileFindDlg.obj
+         Release\stdafx.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         CFileFind.vcxproj -> C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\CFileFind.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\Release\CFileFind.exe;#1" /manifest Release\CFileFind.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         "Release\CFileFind.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\CFileFind.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\CFileFind(ing)\CFileFind\CFileFind.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.79

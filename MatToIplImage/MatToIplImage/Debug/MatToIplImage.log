@@ -1,0 +1,32 @@
+﻿빌드 시작: 2018-04-16 오후 12:23:36
+     1>2 노드의 "C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\MatToIplImage\MatToIplImage.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\MatToIplImage.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IK:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MatToIplImage.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MatToIplImageDlg.cpp
+         MatToIplImageDlg.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\Debug\MatToIplImage.exe" /INCREMENTAL /NOLOGO /LIBPATH:K:\opencv\build\x86\vc10\lib opencv_core231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib /MANIFEST /ManifestFile:"Debug\MatToIplImage.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\Debug\MatToIplImage.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\Debug\MatToIplImage.lib" /MACHINE:X86 Debug\MatToIplImage.res
+         Debug\MatToIplImage.exe.embed.manifest.res
+         Debug\MatToIplImage.obj
+         Debug\MatToIplImageDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MatToIplImage.exe.embed.manifest" /manifest Debug\MatToIplImage.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         MatToIplImage.vcxproj -> C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\Debug\MatToIplImage.exe
+       FinalizeBuildStatus:
+         "Debug\MatToIplImage.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\MatToIplImage.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\MatToIplImage\MatToIplImage\MatToIplImage.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.53

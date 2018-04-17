@@ -1,0 +1,42 @@
+﻿빌드 시작: 2018-04-16 오후 2:00:29
+     1>2 노드의 "C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\IPLtoHBITMAP\IPLtoHBITMAP.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "Debug\IPLtoHBITMAP.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "Debug\IPLtoHBITMAP.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IK:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\IPLtoHBITMAP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IK:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\IPLtoHBITMAP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt IPLtoHBITMAP.cpp IPLtoHBITMAPDlg.cpp
+         IPLtoHBITMAPDlg.cpp
+         IPLtoHBITMAP.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\IPLtoHBITMAP.res" IPLtoHBITMAP.rc 
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\IPLtoHBITMAP.exe.embed.manifest.res" Debug\IPLtoHBITMAP_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.exe" /INCREMENTAL /NOLOGO /LIBPATH:K:\opencv\build\x86\vc10\lib opencv_core231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib /MANIFEST /ManifestFile:"Debug\IPLtoHBITMAP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.lib" /MACHINE:X86 Debug\IPLtoHBITMAP.res
+         Debug\IPLtoHBITMAP.exe.embed.manifest.res
+         Debug\IPLtoHBITMAP.obj
+         Debug\IPLtoHBITMAPDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         "Debug\IPLtoHBITMAP.exe.embed.manifest" 파일을 삭제하고 있습니다.
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\IPLtoHBITMAP.exe.embed.manifest" /manifest Debug\IPLtoHBITMAP.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\IPLtoHBITMAP.exe.embed.manifest.res" Debug\IPLtoHBITMAP_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.exe" /INCREMENTAL /NOLOGO /LIBPATH:K:\opencv\build\x86\vc10\lib opencv_core231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib /MANIFEST /ManifestFile:"Debug\IPLtoHBITMAP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.lib" /MACHINE:X86 Debug\IPLtoHBITMAP.res
+         Debug\IPLtoHBITMAP.exe.embed.manifest.res
+         Debug\IPLtoHBITMAP.obj
+         Debug\IPLtoHBITMAPDlg.obj
+         Debug\stdafx.obj
+         IPLtoHBITMAP.vcxproj -> C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\Debug\IPLtoHBITMAP.exe
+       FinalizeBuildStatus:
+         "Debug\IPLtoHBITMAP.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\IPLtoHBITMAP.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\wlsdu\Desktop\WorkSpace__JYKim(VS2010)\IPLtoHBITMAP\IPLtoHBITMAP\IPLtoHBITMAP.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.41

@@ -1,0 +1,19 @@
+ULONG_PTR gdiplusToken;
+
+1. CxxxxApp::InitInstance() 에서
+	GdiplusStartupInput gdiplusStartupInput;
+	if(::GdiplusStartup(&gdiplusToken, &gdiplusStartupInput, NULL) != Ok)
+	{
+		AfxMessageBox(_T("ERROR : Failed to initialize GDI+ library"));
+		return FALSE;
+	}
+
+2. CxxxxApp::ExitInstance()
+
+	::GdiplusShutdown(gdiplusToken);
+
+3. 헤더파일에서
+
+	#include <gdiplus.h>
+	#pragma comment(lib, "gdiplus")
+	using namespace Gdiplus;
